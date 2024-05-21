@@ -12,7 +12,7 @@
     <section class = "wrapper">
       <div class="form-box">
         <h2>Sign Up</h2>
-        <form action="connect_form.php" method="POST">
+        <form action="includes/connect_form.php" method="POST">
 
           <div class="input-box">
             <label for="username">username</label><br>
@@ -21,11 +21,11 @@
 
           <div class="input-box">
             <label for="password_1">password</label><br>
-            <input type="password_1" name="password_1" required><br>
+            <input type="password" name="password_1" required><br>
           </div><br>
           <div class="input-box">
             <label for="password_2">confirm password</label><br>
-            <input type="password_2" name="password_2" required><br>
+            <input type="password" name="password_2" required><br>
           </div><br>
           <div class="iput-box">
             <label for="email">email address</label><br>

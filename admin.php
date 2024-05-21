@@ -26,7 +26,7 @@
 <h2>Admin Page</h2>
 <div class="form">
 <!-- Form to add new school data -->
-<form method="post" action="conn.php">
+<form method="post" action="includes/conn.php">
     <h3>Add New School Data</h3>
     <label for="school">School:</label>
     <input type="text" id="school" name="school" required><br>

@@ -16,7 +16,7 @@
             background-color: #f2f2f2;
         }
         canvas {
-            margin-top: 20px;
+            margin-top: 10px;
         }
         .p1{
             font-size: 30px;

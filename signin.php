@@ -7,7 +7,7 @@
     <link rel="stylesheet" href="styles/main.css">
 </head>
 <body>
-    <a href="index.html"><img src="Rongo University logo.png"></a>
+    <a href="index.html"><img src="images/Rongo University logo.png"></a>
     <section>
         <div class="wrapper">
             <div class="form-box">

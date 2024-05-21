@@ -10,7 +10,7 @@
     <section class="header">
     
         <nav>
-            <a href=""><img src="Rongo University logo.png"></a>
+            <a href=""><img src="images/Rongo University logo.png"></a>
             <div class="nav-links" id="navLinks">
                 <ul>
                     <li><a href="dashboard.html">Analytics</a></li>
@@ -20,13 +20,13 @@
                 </ul>
             </div>
         </nav> <div class="text-box">
-            <P>Welcome to Rongo University Analytics Website</P>
-        </div>
-    
-        <div>
-        <p class="img1"><a href=""><img src="library.jpg"></a></p>
+
         </div>
         </section>
+        <div>
+        <a href=""><img src="library.jpg"></a>
+        </div>
+       
     <!-- course  -->
     <section class="course">
         <h1>Courses we offer.</h1>
